@@ -1,8 +1,8 @@
 - name: Главная
   link: /
 - name: О нас
-  link: /about
+  link: /about.html
 - name: Контакты
-  link: /contacts
+  link: /contacts.html
 - name: Помочь
-  link: /help
+  link: /help.html
