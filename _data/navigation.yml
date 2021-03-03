@@ -2,6 +2,14 @@
   link: /
 - name: О нас
   link: /about.html
+- name: Награды
+  link: /awards.html
+- name: Партнеры и спонсоры
+  link: /partners.html
+- name: СМИ
+  link: /media.html
+# - name: Деятельность
+#   link: /work.html
 - name: Контакты
   link: /contacts.html
 - name: Помочь
