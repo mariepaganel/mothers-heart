@@ -9,7 +9,7 @@ subtitle: Мы на связи!
 
 Тел.: 8 (8142) 59-35-05
 
-E-mail - bfond10@mail.ru, daridobro@onego.ru
+E-mail - bfond10@mail.ru
 
 <div class="row">
   {% for person in site.data.people %}
