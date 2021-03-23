@@ -39,6 +39,7 @@ subtitle: Благотворительный фонд
 	<br>
 </div>
 <div class="col-md-4">
+    <img class="img-fluid" src="/assets/img/logo.jpg" alt="логотип">
 	{% include vk.html %}
 </div>
 </div>
