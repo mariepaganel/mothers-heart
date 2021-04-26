@@ -1,7 +1,9 @@
 - name: Главная
   link: /
-- name: О нас
-  link: /about.html
+#- name: О нас
+#  link: /about.html
+- name: Социальные услуги
+  link: /services.html
 - name: Награды
   link: /awards.html
 - name: Партнеры и спонсоры
