@@ -1,0 +1,7 @@
+<ul class="nav flex-column">
+    {% for item in site.data.about_navigation %}
+    <li class="nav-item">
+        <a class="nav-link {% if item.link == page.url %}active{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+    </li>
+    {% endfor %}
+</ul>
