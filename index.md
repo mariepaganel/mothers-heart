@@ -41,7 +41,7 @@ subtitle: Благотворительный фонд
 	<br>
 </div>
 <div class="col-md-4">
-    <img class="img-fluid" src="/assets/img/logo.jpg" alt="логотип">
+    <img class="img-fluid" src="/assets/img/pay_with_QR.png" alt="логотип">
 	{% include vk.html %}
 	<img class="img-fluid" src="/assets/img/kuar_kod.jpg" title="QR-код зачисления пожертвований" alt="QR-код зачисления пожертвований">
 </div>
