@@ -14,6 +14,14 @@ subtitle: Благотворительный фонд
 		<i class="fa fa-envelope"></i> bfond10@mail.ru </span>
 	<hr>
 	<h1>Вместе мы можем многое!</h1>
+	
+	<div id="vk_post_-7868006_10837"></div>
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
+<script type="text/javascript">
+  (function() {
+    VK.Widgets.Post("vk_post_-7868006_10837", -7868006, 10837, 'endks6sSBZuGgnWt8PN579lDN173');
+  }());
+</script>
 
 	<p>Карельский региональный благотворительный фонд "МАТЕРИНСКОЕ СЕРДЦЕ" официально зарегистрирован 01.04.2009.</p>
 
