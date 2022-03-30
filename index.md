@@ -14,8 +14,6 @@ subtitle: Благотворительный фонд
 		<i class="fa fa-envelope"></i> bfond10@mail.ru </span>
 	<hr>
 	<h1>Вместе мы можем многое!</h1>
-	
-	{% include vk_posts.html %}
 
 	<p>Карельский региональный благотворительный фонд "МАТЕРИНСКОЕ СЕРДЦЕ" официально зарегистрирован 01.04.2009.</p>
 
@@ -41,7 +39,7 @@ subtitle: Благотворительный фонд
 	<br>
 </div>
 <div class="col-md-4">
-    <img class="img-fluid" src="/assets/img/pay_with_QR.png" alt="логотип">
+    <img class="img-fluid" src="/assets/img/logo.jpg" alt="логотип">
 	{% include vk.html %}
 	<img class="img-fluid" src="/assets/img/kuar_kod.jpg" title="QR-код зачисления пожертвований" alt="QR-код зачисления пожертвований">
 </div>
